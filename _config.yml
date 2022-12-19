@@ -21,7 +21,7 @@ footer-links:
   email: amalvara@uc.cl
   facebook:
   flickr:
-  github: amalvara/SistemasRecomendadores
+  github: amalvara
   instagram:
   linkedin:
   pinterest:
@@ -50,7 +50,7 @@ url: https://amalvara.github.io/
 baseurl: ""
 
 #
-!! You don't need to change any of the configuration flags below !!
+#!! You don't need to change any of the configuration flags below !!
 #
 
 permalink: /:title/
