@@ -3,6 +3,5 @@ layout: post
 title: Curso Sistemas Recomendadores
 ---
 
-# Clase 1
 
-Aquí se cometará respecto a los temas vistos en la clase 1 del curso.
+El objetivo de este blog es comentar algunos de los temas vistos en el curso de sistemas recomendadores que se realiza en el Magíster de Inteligencia Artificial de la Pontificia Universidad Católica de Chile, año 2022.
