@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+El objetivo de este blog es comentar algunos de los temas vistos en el curso de sistemas recomendadores que se realiza en el Magíster de Inteligencia Artificial de la Pontificia Universidad Católica de Chile, año 2022.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[amalvara@uc.cl](mailto:amalvara@uc.cl)
